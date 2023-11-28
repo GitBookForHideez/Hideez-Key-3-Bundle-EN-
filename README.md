@@ -6,11 +6,19 @@ description: Use cases and guidelines for using Hideez Key 3 with Dongle
 
 ### What is Hideez Key 3?
 
+<figure><img src=".gitbook/assets/Screenshot_2 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
 Hideez Key 3  is a **Bluetooth security key** that could be used as a FIDO security Key, password manager, and MFA key fob. The Key provides passwordless access to accounts and workstations, proximity-based PC login and logout, as well as password & OTP autofill.
 
 &#x20;It's much more than just a Windows security key or FIDO2 password manager – it's a versatile device that gives you total control over your online security.\
 \
 Hideez Key 3 is suitable for both personal and enterprise use within the scope of the [Hideez Authentication Service](https://hideez.com/pages/hideez-authentication-service), a cloud-based passwordless IAM solution for organizations.
+
+{% hint style="info" %}
+**The Hideez Key 3 comes bundled with the Hideez Dongle, a USB device designed to facilitate the use of the Hideez Key 3 on computers lacking built-in Bluetooth or experiencing low Bluetooth signal strength. The Hideez Dongle not only provides increased stability in general but also functions as a standalone device capable of replacing internal Bluetooth on MacOS, Windows, and Linux operating systems.**
+
+**This dongle offers users a reliable solution to connectivity issues, ensuring a stable connection for the Hideez Key 3. It serves as a practical alternative for situations where internal Bluetooth is unavailable or exhibits suboptimal performance. For more detailed information about the Hideez Dongle, you can refer to the provided link.**
+{% endhint %}
 
 ### Main futures of Hideez Key 3
 

@@ -26,14 +26,13 @@ Changing the battery.
 
 ![](<../../../.gitbook/assets/image (24).png>)
 
-{% hint style="info" %}
-Notice: if you don’t want to change the battery by yourself, you can contact any electronic service center which replaces watch batteries.&#x20;
+
+
+{% hint style="success" %}
+The estimated operation time of Hideez Key is up to **6 months**, depending on usage and the quality of the battery.
 {% endhint %}
 
-The estimated operation time of Hideez Key is up to **6 months**, depending on usage and the quality of the battery.
+{% hint style="info" %}
+Notice: if you don’t want to change the battery by yourself, you can contact any electronic service center that replaces watch batteries.&#x20;
+{% endhint %}
 
-### Hideez Key 4
-
-To recharge the battery you need to plug Micro-USB connector to the corresponding port located on the side of the fob. Wait until led indicator becomes green. Hideez Key 4 will be ready for work.
-
-![](<../../../.gitbook/assets/image (225).png>)
