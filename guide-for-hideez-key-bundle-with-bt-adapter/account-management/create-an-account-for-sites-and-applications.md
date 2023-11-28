@@ -97,7 +97,7 @@ Click on the **Verify**.
 Visit the gmail.com account login page. Place the cursor in the login field and press either **CTRL + ALT + L** or **twice on the Hideez Key button**. \
 Your login will be entered.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 #### Step 2
 

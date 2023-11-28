@@ -30,7 +30,7 @@ If you selected the wrong options during installation, you can change them later
 
 Plug the Hideez Bluetooth adapter into a USB port. Avoid using a USB hub, if possible. The "**Hideez Bluetooth Dongle**" indicator in the lower left corner of the Hideez Client will turn green.
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 #### To pair your Hideez Key with the Hideez Client, you will need to:
 
