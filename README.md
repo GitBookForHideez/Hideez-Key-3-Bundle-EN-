@@ -48,8 +48,8 @@ Open RFID electronic doors with the Hideez Key. Use your key as an RFID password
 
 * [**Universal Identity and Access Management Concepts Tool For Organizations**](https://enterprise.hideez.com/hideez-key-enterprise-edition/hideez-key-enterprise-edition)
 
-Hideez Key 4 is part of the [**Hideez Authentication Service**](https://hideez.com/pages/hideez-authentication-service) that will help you manage accounts and access privileges of your workers 100% remotely and securely. Employees can use Hideez Keys as their primary or secondary authentication method in addition to biometric passkeys and a mobile authenticator.&#x20;
+Hideez Key 3 is part of the [**Hideez Authentication Service**](https://hideez.com/pages/hideez-authentication-service) that will help you manage accounts and access privileges of your workers 100% remotely and securely. Employees can use Hideez Keys as their primary or secondary authentication method in addition to biometric passkeys and a mobile authenticator.&#x20;
 
 {% hint style="info" %}
-The Ukrainian version of this manual can be found here.
+The Ukrainian version of this manual can be found [**here**](https://key3-4-ua.hideez.com/)**.**
 {% endhint %}
