@@ -33,7 +33,7 @@ Plug the Hideez Bluetooth adapter into a USB port. Avoid using a USB hub, if pos
 ![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 {% hint style="info" %}
-It's also possible to utilize Hideez Key 3 via internal Bluetooth (BLE) on your computer. This option becomes available after updating the firmware via the Dongle. To enable this, you need to change the connection type of your Hideez Client to "Windows Internal Bluetooth" using the[ **Configuration app**](configuration-app.md).
+It's also possible to utilize Hideez Key 3 via internal Bluetooth (BLE) on your computer. This option becomes available after updating the firmware via the Dongle. To enable this, you need to change the connection type of your Hideez Client to "Windows Internal Bluetooth" using the[ **Configuration app**](configuration-app.md) and[ **pair your Key with your computer**](../passwordless-fido-authentication-and-2fa/pairing-hideez-key-with-windows-10.md).
 {% endhint %}
 
 #### To pair your Hideez Key with the Hideez Client, you will need to:
