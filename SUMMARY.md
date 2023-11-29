@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hideez Key 3 (Bundle) – User Manuals](README.md)
+* [Hideez Key 3 (Bundle) – User Manual](README.md)
 
 ## Guide for Hideez Key (Bundle with BT adapter)
 
