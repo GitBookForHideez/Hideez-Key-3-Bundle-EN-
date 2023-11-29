@@ -4,6 +4,10 @@ description: Hideez Key –  Pairing with Windows
 
 # Pairing Hideez Key with Windows
 
+{% hint style="info" %}
+It's also possible to utilize Hideez Key 3 via internal Bluetooth (BLE) on your computer. This option becomes available after updating the firmware via the Dongle. To enable this, you need to change the connection type of your Hideez Client using the [Configuration app](../guide-for-hideez-key-bundle-with-bt-adapter/configuration-app.md)**.**
+{% endhint %}
+
 Hideez Key devices support passwordless authentication stadards developed by the FIDO Alliance: [FIDO U2F and FIDO2](https://fidoalliance.org/specifications/). You can pair Hideez Key with any devices supporting FIDO Security Keys, including computers running Windows 10/11, Android (version 7.0+) or iOS (version 13.3+) devices.
 
 Services that support these standards include Google, Facebook, Twitter, and Dropbox, and [other](https://hideez.com/pages/supported-services).
