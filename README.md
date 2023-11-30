@@ -2,7 +2,7 @@
 description: Use cases and guidelines for using Hideez Key 3 with Dongle
 ---
 
-# Hideez Key 3 (Bundle) – User Manuals
+# Hideez Key 3 (Bundle) – User Manual
 
 ### What is Hideez Key 3?
 
@@ -20,7 +20,7 @@ Hideez Key 3 is suitable for both personal and enterprise use within the scope o
 **This dongle offers users a reliable solution to connectivity issues, ensuring a stable connection for the Hideez Key 3. It serves as a practical alternative for situations where internal Bluetooth is unavailable or exhibits suboptimal performance. For more detailed information about the Hideez Dongle,** [**you can refer to the provided link.**](https://dongle.hideez.com/)
 {% endhint %}
 
-### Main futures of Hideez Key 3
+### Main features of Hideez Key 3
 
 * [**FIDO2 Key For Passwordless Sign-In**](passwordless-fido-authentication-and-2fa/setting-up-passwordless-logins-and-2fa.md)
 
