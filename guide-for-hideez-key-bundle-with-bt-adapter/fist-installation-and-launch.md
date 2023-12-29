@@ -53,7 +53,7 @@ It's also possible to utilize Hideez Key 3 via internal Bluetooth (BLE) on your 
 
 Once the Hideez Key is paired with your PC and authorized in the Hideez Client, you will be able to update the device firmware to the latest available version. Open the **Firmware update app** and follow the on-screen instructions.
 
-<figure><img src="../.gitbook/assets/spaces_-MfYDFTEpJbKi-L_jDAN_uploads_KcNWoDtF4oUxNdqbxCYJ_58ff255e-8038-4cc9-beb2-e2676f5451fd.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_2.jpg" alt=""><figcaption></figcaption></figure>
 
 Check the "**Hideez Dongle"** option and click on the "**Quick update"** button. Keep the Hideez Key close to the dongle and wait until the firmware is fully updated.
 
