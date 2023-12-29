@@ -51,5 +51,5 @@ Open RFID electronic doors with the Hideez Key. Use your key as an RFID password
 Hideez Key 3 is part of the [**Hideez Authentication Service**](https://hideez.com/pages/hideez-authentication-service) that will help you manage accounts and access privileges of your workers 100% remotely and securely. Employees can use Hideez Keys as their primary or secondary authentication method in addition to biometric passkeys and a mobile authenticator.&#x20;
 
 {% hint style="info" %}
-The Ukrainian version of this manual can be found [**here**](https://key3-4-ua.hideez.com/)**.**
+The Ukrainian version of this manual can be found [**here**](https://key3-ua.hideez.com/)
 {% endhint %}
