@@ -28,13 +28,13 @@ Experience phishing-resistant passwordless logins and two-factor authentication 
 
 _**Note:** Compatible only with Windows and Android devices_&#x20;
 
-* #### [Password Manager  and OTP generator for web services and applications ](broken-reference)
+* #### [Password Manager  and OTP generator for web services and applications](guide-for-hideez-key-bundle-with-bt-adapter/account-management/create-an-account-for-sites-and-applications.md)&#x20;
 
 Use Hideez Key as a password manager to store your credentials and enter them automatically at the push of the button or by hot keys. Store up to 1,000 logins and passwords, and generate new strong passwords or OTP-s with ease.&#x20;
 
 _**Note:** These features work only on Windows computers and support Chrome, Edge, Brave, Firefox, Opera, and Vivaldi browsers_&#x20;
 
-* [**Desktop Login And Logout Based On User Proximity**](broken-reference)
+* [**Desktop Login And Logout Based On User Proximity**](guide-for-hideez-key-bundle-with-bt-adapter/lock-pc.md)
 
 The Proximity login and logout feature automatically disables access to your PC when you walk away and the strength of the **Bluetooth** signal is falling down. Use the Hideez Key to lock and unlock your desktop in seconds. Supports Personal, Domain AD, Azure Ad, and Microsoft types of accounts. &#x20;
 
