@@ -22,7 +22,7 @@ Navigate to **Program Files > Hideez > Client > Device Maintenance Application**
 
 #### Step 1
 
-Run the Device Maintenance Application file and check if the "Hideez Dongle" radio button is selected.&#x20;
+Insert the [**Dongle**](https://dongle.hideez.com/), run the Device Maintenance Application file, and check if the “Hideez Dongle” radio button is selected.&#x20;
 
 {% hint style="info" %}
 Windows Bluetooth mode can be unstable.
