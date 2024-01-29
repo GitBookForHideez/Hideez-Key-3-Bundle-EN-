@@ -6,7 +6,7 @@ description: Use cases and guidelines for using Hideez Key 3 with Dongle
 
 ### What is Hideez Key 3?
 
-<figure><img src=".gitbook/assets/Screenshot_2 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot_4.jpg" alt="" width="359"><figcaption></figcaption></figure>
 
 Hideez Key 3  is a **Bluetooth security key** that could be used as a FIDO security Key, password manager, and MFA key fob. The Key provides passwordless access to accounts and workstations, proximity-based PC login and logout, as well as password & OTP autofill.
 
