@@ -38,7 +38,7 @@ Here are some of the websites and their documentation on FIDO U2F:
 * [Boxcryptor](https://www.boxcryptor.com/ru/help/boxcryptor-account/windows/#two-factor-authentication)
 * [Cloudflare](https://blog.cloudflare.com/cloudflare-now-supports-security-keys-with-web-authentication-webauthn/)
 * [Coinbase](https://help.coinbase.com/en/coinbase/managing-my-account/verify-my-identity/using-and-managing-security-keys)
-* [Dropbox](https://fido.hideez.com/set-up-two-factor-authentication-using-fido-u2f/u2f-setup-example-for-dropbox)
+* [Dropbox](https://help.dropbox.com/account-access/enable-two-step-verification)
 * [eBay](https://www.ebay.com/help/account/protecting-account/tips-keeping-ebay-account-secure?id=4872\&st=3\&pos=1\&query=Tips%20for%20keeping%20your%20eBay%20account%20secure\&intent=2%20factor\&lucenceai=lucenceai#section2)
 * [Facebook](https://www.facebook.com/help/401566786855239)
 * [Gandi.net](https://news.gandi.net/en/2017/10/u2f-now-available-on-gandiv5/)
