@@ -37,7 +37,6 @@
 
 * [Pairing Hideez Key with Windows](passwordless-fido-authentication-and-2fa/pairing-hideez-key-with-windows-10.md)
 * [Setting up passwordless logins and 2FA](passwordless-fido-authentication-and-2fa/setting-up-passwordless-logins-and-2fa.md)
-* [Using Hideez Key with iOS devices](passwordless-fido-authentication-and-2fa/pairing-hideez-key-with-macos-ios-devices.md)
 
 ## Upgrading
 

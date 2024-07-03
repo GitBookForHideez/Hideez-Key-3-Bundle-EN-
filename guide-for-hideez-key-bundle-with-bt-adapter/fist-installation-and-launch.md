@@ -157,7 +157,7 @@ Typically, a physical security key is added as an extra login method in your acc
 
 How to enable [passwordless sign-in and 2FA](../passwordless-fido-authentication-and-2fa/setting-up-passwordless-logins-and-2fa.md) with the Hideez Key \
 How to pair the Hideez Key with [Windows](../passwordless-fido-authentication-and-2fa/pairing-hideez-key-with-windows-10.md) and [Android ](broken-reference)devices\
-How to pair the Hideez Key with [iOS](../passwordless-fido-authentication-and-2fa/pairing-hideez-key-with-macos-ios-devices.md) devices
+How to pair the Hideez Key with [iOS](broken-reference) devices
 
 ### Step 10: Physical Access (optional) <a href="#shag-8-nazhmite-knopku-na-hideez-key" id="shag-8-nazhmite-knopku-na-hideez-key"></a>
 
