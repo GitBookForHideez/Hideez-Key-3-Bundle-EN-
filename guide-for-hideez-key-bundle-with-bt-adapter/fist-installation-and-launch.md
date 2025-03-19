@@ -18,11 +18,11 @@ Open up the [Hideez Key's case](interface/service-operations/battery-maintenance
 
 You can download the latest version of the Hideez Client [here](https://update.hideez.com/update/hideezclient/clientsetup.exe). &#x20;
 
-<figure><img src="../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Run the **clientsetup.exe** file, select the **Standalone version** and check the **Use external Bluetooth Dongle** box. In addition, you can choose the language required. Choose desired options and click the "Apply" button.
 
-<figure><img src="../.gitbook/assets/Screenshot_11 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_11 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 If you selected the wrong options during installation, you can change them later in the ["Configuration" utility](configuration-app.md).
 
@@ -44,7 +44,7 @@ It's also possible to utilize Hideez Key 3 via internal Bluetooth (BLE) on your 
 4. Set up your master password (minimum 8 characters - letters, numbers, and special symbols). You can change your master password later on, but be sure to remember it.
 
 {% hint style="danger" %}
-**Please note!** It will be impossible to recover a forgotten master password! If you don't have a master password, you can only [wipe all the data which is stored in your Key.](https://key3-4-bundle-en.hideez.com/use-on-windows-with-a-dongle/interface/service-operations/wipe)
+**Please note!** It will be impossible to recover a forgotten master password! If you don't have a master password, you can only[ wipe all the data](interface/service-operations/wipe.md) which is stored in your Key.
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?t=183s&v=LrubK-zDQBY" %}

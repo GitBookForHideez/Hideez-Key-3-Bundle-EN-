@@ -14,7 +14,7 @@ In order to wipe the device, go to the **Vault settings** section and click the 
 
 Check out the notification and confirm your decision by clicking the **Start wipe** button.
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Once you confirm the wipe, the button will flash yellow, press and hold it for 10 seconds.
 
