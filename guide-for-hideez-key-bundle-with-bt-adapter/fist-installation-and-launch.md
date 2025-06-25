@@ -131,7 +131,7 @@ How to [hide unlock option if you don't use it](interface/general-settings/logon
 
 ### Step 9: Enable Passwordless sign-in across FIDO2 & FIDO U2F websites <a href="#shag-8-nazhmite-knopku-na-hideez-key" id="shag-8-nazhmite-knopku-na-hideez-key"></a>
 
-Hideez Key supports passwordless authentication standards ([FIDO U2F and FIDO2](https://fidoalliance.org/specifications/)) developed by the FIDO Alliance. FIDO specifications are currently supported by over 300 popular websites and applications in Google [Chrome](https://blog.chromium.org/2018/09/chrome-70-beta-shape-detection-web.html), Mozilla [Firefox](https://blog.mozilla.org/blog/2018/05/09/firefox-gets-down-to-business-and-its-personal/), Microsoft [Edge](https://blogs.windows.com/msedgedev/2018/07/30/introducing-web-authentication-microsoft-edge/) and Apple [Safari](https://webkit.org/blog/8517/release-notes-for-safari-technology-preview-71/) web browsers.
+Hideez Key supports passwordless authentication standards ([FIDO U2F and FIDO2](https://fidoalliance.org/specifications/)) developed by the FIDO Alliance. FIDO specifications are currently supported by over 300 popular websites and applications in Google [Chrome](https://blog.chromium.org/2018/09/chrome-70-beta-shape-detection-web.html), Mozilla [Firefox](https://blog.mozilla.org/blog/2018/05/09/firefox-gets-down-to-business-and-its-personal/), Microsoft [Edge](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-fido2-compatibility?tabs=web) and Apple [Safari](https://webkit.org/blog/8517/release-notes-for-safari-technology-preview-71/) web browsers.
 
 In order to use Hideez Key as a FIDO2/U2F security key, you will have have to pair it with your endpoint devices. The supported devices include:
 
