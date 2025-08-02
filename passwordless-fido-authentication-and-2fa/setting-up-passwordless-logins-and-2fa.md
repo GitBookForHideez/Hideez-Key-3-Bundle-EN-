@@ -6,7 +6,7 @@ description: Hideez Key – Passwordless authentication and 2FA
 
 Once you have paired Hideez Key with your devices, you can set up passwordless authentication or two-factor authentication on websites supporting FIDO U2F and FIDO2 standards.
 
-FIDO specifications are currently supported by Google [Chrome](https://blog.chromium.org/2018/09/chrome-70-beta-shape-detection-web.html), Mozilla [Firefox](https://blog.mozilla.org/blog/2018/05/09/firefox-gets-down-to-business-and-its-personal/), Microsoft [Edge](https://blogs.windows.com/msedgedev/2018/07/30/introducing-web-authentication-microsoft-edge/) and Apple [Safari](https://webkit.org/blog/8517/release-notes-for-safari-technology-preview-71/) web browsers.
+FIDO specifications are currently supported by Google [Chrome](https://blog.chromium.org/2018/09/chrome-70-beta-shape-detection-web.html), Mozilla [Firefox](https://blog.mozilla.org/blog/2018/05/09/firefox-gets-down-to-business-and-its-personal/), Microsoft [Edge](https://support.microsoft.com/en-us/account-billing/set-up-a-passkey-fido2-as-your-verification-method-2911cacd-efa5-4593-ae22-e09ae14c6698) and Apple [Safari](https://webkit.org/blog/8517/release-notes-for-safari-technology-preview-71/) web browsers.
 
 {% hint style="info" %}
 You will need to enable the passwordless sign-in method with a security key for each app and website you want to use it with.
